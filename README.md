@@ -2,9 +2,7 @@
 
 # Breast Cancer Prediction
 
-Predicting whether breast cancer tumors are malignant or benign
-
-✨ [Notebook](breast_cancer_diagnostic.ipynb)
+✨ [Notebook](breast_cancer_diagnostic.ipynb): Predicting whether breast cancer tumors are malignant or benign.
 
 ## Resources
 
